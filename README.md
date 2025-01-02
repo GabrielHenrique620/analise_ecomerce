@@ -39,7 +39,7 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 
 
 ## 🔧 Tecnologias Utilizadas
-- Python 3.12.9
+- Python 3.12.8
 - Pandas para manipulação de dados
 - Matplotlib e Seaborn para visualizações
 - Jupyter Notebook para análise interativa
