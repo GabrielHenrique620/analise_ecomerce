@@ -52,6 +52,5 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 📁 Estrutura do Projeto
 ```├── data/               # Dados brutos e processados```
 ```├── notebooks/          # Jupyter notebooks com análises```
-```├── scripts/            # Scripts Python utilizados```
 ```└── README.md           # Esta documentação
 
