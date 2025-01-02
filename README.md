@@ -43,7 +43,7 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 - Pandas para manipulação de dados
 - Matplotlib e Seaborn para visualizações
 - Jupyter Notebook para análise interativa
-- 
+  
 ## 📁 Estrutura do Projeto
 project/
 │
