@@ -22,7 +22,7 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 ### 2. Performance de Entregas
 - Tempo médio de entrega: 12.1 dias
 - 90% das entregas realizadas em até 23 dias
-- Distribuição do tempo de entrega por cidade
+
 - Comparação entre tempo estimado e real
   ![image](https://github.com/user-attachments/assets/1cbc146e-f8b9-4378-b93e-898c35eff7a7)
   ![image](https://github.com/user-attachments/assets/99ca635b-2e8b-4984-981b-d9cf95832014)
@@ -33,6 +33,7 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 - Taxa de entregas no prazo por cidade
 - Variação de performance entre regiões
 - Identificação de oportunidades de melhoria
+- Distribuição do tempo de entrega por cidade
   ![image](https://github.com/user-attachments/assets/caf1cee7-e994-4e7e-8774-f541b3f84e57)
   ![image](https://github.com/user-attachments/assets/b33e972c-7ddb-46f6-9d6c-bf90acf9fd90)
 
