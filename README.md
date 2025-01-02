@@ -43,11 +43,15 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 - Pandas para manipulação de dados
 - Matplotlib e Seaborn para visualizações
 - Jupyter Notebook para análise interativa
-  
-## 📁 Estrutura do Projeto
-project/
-│
-├── data/                 # Dados brutos e processados
-├── notebooks/           # Jupyter notebooks com análises
-├── scripts/            # Scripts Python utilizados
-└── README.md           # Esta documentação
+
+## 📚 Referências
+- [Dataset Olist no Kaggle]([link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce))
+- Documentação das bibliotecas utilizadas
+
+```project/
+📁 Estrutura do Projeto
+```├── data/               # Dados brutos e processados```
+```├── notebooks/          # Jupyter notebooks com análises```
+```├── scripts/            # Scripts Python utilizados```
+```└── README.md           # Esta documentação
+
