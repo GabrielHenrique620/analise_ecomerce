@@ -1,0 +1,24 @@
+# Data manipulation and analysis
+pandas==2.1.0
+numpy==1.24.3
+
+# Data visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Jupyter notebooks (opcional, mas recomendado)
+jupyter==1.0.0
+notebook==7.0.3
+ipykernel==6.25.1
+
+# Data loading and processing
+openpyxl==3.1.2  # Para trabalhar com arquivos Excel se necessário
+kaggle==1.5.16   # Para download do dataset
+python-dotenv==1.0.0  # Para gerenciar variáveis de ambiente (API Kaggle)
+
+# Statistical analysis
+scipy==1.11.2    # Para cálculos estatísticos avançados
+statsmodels==0.14.0  # Para análise de séries temporais
+
+# Outros utilitários
+tqdm==4.66.1     # Para barras de progresso
