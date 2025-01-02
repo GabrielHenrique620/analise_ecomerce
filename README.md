@@ -44,3 +44,9 @@ Este projeto consiste em uma análise exploratória de dados do e-commerce brasi
 - Jupyter Notebook para análise interativa
 
 ## 📁 Estrutura do Projeto
+project/
+│
+├── data/                 # Dados brutos e processados
+├── notebooks/           # Jupyter notebooks com análises
+├── scripts/            # Scripts Python utilizados
+└── README.md           # Esta documentação
